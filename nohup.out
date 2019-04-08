@@ -1,0 +1,640 @@
+ml_config: we are NOT inside the ML environment, applying relative paths
+./data/
+./output/
+en
+['France', 'Cupertino', 'California']
+0 0 0 Internal Revenue Service ['Internal', 'Revenue', 'Service'] result: 
+100 19 0 Repto San Jose ['Repto', 'San', 'Jose'] result: 
+200 33 0 Alts De Penuelas ['Alts', 'De', 'Penuelas'] result: 
+300 47 0 URB The Estates ['URB', 'The', 'Estates'] result: 
+400 68 0 Haciendas De Isabela ['Haciendas', 'De', 'Isabela'] result: 
+500 85 0 Hacienda La Monserrate ['Hacienda', 'La', 'Monserrate'] result: 
+600 97 0 URB Petiteville ['URB', 'Petiteville'] result: 
+700 108 0 Praderas De Morovis Sur ['Praderas', 'De', 'Morovis', 'Sur'] result: 
+800 125 0 Vega Baja ['Vega', 'Baja'] result: 
+900 136 0 Ext Jard De Arroyo ['Ext', 'Jard', 'De', 'Arroyo'] result: 
+1000 144 0 Jard De Naranjito ['Jard', 'De', 'Naranjito'] result: 
+1100 164 0 URB Bonneville Terr ['URB', 'Bonneville', 'Terr'] result: 
+1200 175 0 URB Country View ['URB', 'Country', 'View'] result: 
+1300 185 0 Repto Ana Luisa ['Repto', 'Ana', 'Luisa'] result: 
+1400 192 0 Punta Santiago ['Punta', 'Santiago'] result: 
+1500 210 0 Villalba ['Villalba'] result: 
+1600 226 0 Hacienda Paloma Ii ['Hacienda', 'Paloma', 'Ii'] result: 
+1700 236 0 Brisas Del Lago ['Brisas', 'Del', 'Lago'] result: 
+1800 249 0 Alts De San Benito ['Alts', 'De', 'San', 'Benito'] result: 
+1900 268 0 Sect El Relincho ['Sect', 'El', 'Relincho'] result: 
+2000 287 0 URB Vosburg ['URB', 'Vosburg'] result: 
+2100 302 0 URB Romany Pk Ii ['URB', 'Romany', 'Pk', 'Ii'] result: 
+2200 317 0 Mans Del Lago ['Mans', 'Del', 'Lago'] result: 
+2300 324 0 URB El Cortijo ['URB', 'El', 'Cortijo'] result: 
+2400 329 0 URB Rio Hondo 2 ['URB', 'Rio', 'Hondo', '2'] result: 
+2500 350 0 Ext Parkville ['Ext', 'Parkville'] result: Parkville
+2600 364 0 Repto San Rafael ['Repto', 'San', 'Rafael'] result: Repto San Rafael
+2700 373 0 South Amherst ['South', 'Amherst'] result: South Amherst
+2800 404 0 Wheelwright ['Wheelwright'] result: 
+2900 437 0 Williamstn ['Williamstn'] result: 
+3000 478 0 Still River ['Still', 'River'] result: 
+3100 513 0 Westbrookfield ['Westbrookfield'] result: 
+3200 555 0 North Billerica ['North', 'Billerica'] result: Billerica
+3300 599 0 N Marshfield ['N', 'Marshfield'] result: 
+3400 665 0 West Quincy ['West', 'Quincy'] result: West Quincy
+3500 704 0 S Easton ['S', 'Easton'] result: 
+3600 748 0 E Wareham ['E', 'Wareham'] result: 
+3700 794 0 W Hyannisprt ['W', 'Hyannisprt'] result: 
+3800 843 0 Jamestown ['Jamestown'] result: Jamestown
+3900 885 0 Amherst ['Amherst'] result: Amherst
+4000 925 0 Lakeport ['Lakeport'] result: Lakeport
+4100 955 0 Nelson ['Nelson'] result: 
+4200 997 0 Lebanon ['Lebanon'] result: Lebanon
+4300 1039 0 Newcastle ['Newcastle'] result: 
+4400 1076 0 E Sebago ['E', 'Sebago'] result: 
+4500 1112 0 Ltle Dia Is ['Ltle', 'Dia', 'Is'] result: 
+4600 1161 0 Farmingdale ['Farmingdale'] result: Farmingdale
+4700 1197 0 Kenduskeag ['Kenduskeag'] result: 
+4800 1222 0 Mac Mahan ['Mac', 'Mahan'] result: 
+4900 1257 0 Machias ['Machias'] result: Machias
+5000 1278 0 Monticello ['Monticello'] result: Monticello
+5100 1309 0 Clinton ['Clinton'] result: 
+5200 1340 0 E Moxie Twp ['E', 'Moxie', 'Twp'] result: 
+5300 1374 0 South Royalton ['South', 'Royalton'] result: South Royalton
+5400 1411 0 Weston ['Weston'] result: 
+5500 1465 0 W Townshend ['W', 'Townshend'] result: 
+5600 1506 0 Highgate Ctr ['Highgate', 'Ctr'] result: 
+5700 1532 0 Underhill ['Underhill'] result: 
+5800 1567 0 Pekin ['Pekin'] result: Pekin
+5900 1608 0 Hancock ['Hancock'] result: 
+6000 1645 0 East Hardwick ['East', 'Hardwick'] result: East Hardwick
+6100 1672 0 Northeast Area ['Northeast', 'Area'] result: 
+6200 1716 0 Tolland ['Tolland'] result: Tolland
+6300 1742 0 Eastford ['Eastford'] result: 
+6400 1771 0 Navsub Base ['Navsub', 'Base'] result: 
+6500 1796 0 North Branford ['North', 'Branford'] result: 
+6600 1823 0 Oakville ['Oakville'] result: Oakville
+6700 1867 0 Powerville ['Powerville'] result: 
+6800 1905 0 Wood Ridge ['Wood', 'Ridge'] result: 
+6900 1932 0 Ho Ho Kus ['Ho', 'Ho', 'Kus'] result: 
+7000 1980 0 Closter ['Closter'] result: Closter
+7100 2022 0 Deal ['Deal'] result: 
+7200 2065 0 Belvidere ['Belvidere'] result: Belvidere
+7300 2100 0 Morristown ['Morristown'] result: Morristown
+7400 2141 0 Hainesport Township ['Hainesport', 'Township'] result: Hainesport Township
+7500 2196 0 Cinnaminson Township ['Cinnaminson', 'Township'] result: Cinnaminson Township
+7600 2245 0 Pennsauken ['Pennsauken'] result: Pennsauken
+7700 2278 0 Corbin City ['Corbin', 'City'] result: 
+7800 2322 0 Hopewell Twp ['Hopewell', 'Twp'] result: 
+7900 2365 0 Lacey Township ['Lacey', 'Township'] result: Lacey Township
+8000 2413 0 Harmony Township ['Harmony', 'Township'] result: Harmony Township
+8100 2440 0 Lenox Hill ['Lenox', 'Hill'] result: 
+8200 2472 0 Lake Secor ['Lake', 'Secor'] result: 
+8300 2518 0 Blauvelt ['Blauvelt'] result: 
+8400 2558 0 West Point ['West', 'Point'] result: 
+8500 2598 0 Queens ['Queens'] result: Queens
+8600 2663 0 Ozone Park ['Ozone', 'Park'] result: 
+8700 2713 0 Hewlett Bay ['Hewlett', 'Bay'] result: 
+8800 2765 0 Bayport ['Bayport'] result: Bayport
+8900 2811 0 Islip Terrace ['Islip', 'Terrace'] result: Islip Terrace
+9000 2852 0 Muttontown ['Muttontown'] result: Muttontown
+9100 2898 0 Water Mill ['Water', 'Mill'] result: 
+9200 2931 0 Coxsackie ['Coxsackie'] result: 
+9300 2968 0 New Lebanon ['New', 'Lebanon'] result: New Lebanon
+9400 3002 0 Mannville ['Mannville'] result: 
+9500 3030 0 Chichester ['Chichester'] result: 
+9600 3065 0 Red Hook ['Red', 'Hook'] result: 
+9700 3095 0 Wingdale ['Wingdale'] result: Wingdale
+9800 3134 0 Bakers Mills ['Bakers', 'Mills'] result: 
+9900 3156 0 E Greenwich ['E', 'Greenwich'] result: 
+10000 3182 0 Malone ['Malone'] result: 
+10100 3208 0 Chtg ['Chtg'] result: 
+10200 3229 0 Maple View ['Maple', 'View'] result: 
+10300 3251 0 Brutus ['Brutus'] result: 
+10400 3273 0 Oppenheim ['Oppenheim'] result: 
+10500 3303 0 Paines Hollow ['Paines', 'Hollow'] result: 
+10600 3333 0 Springfld Ctr ['Springfld', 'Ctr'] result: 
+10700 3367 0 Castorland ['Castorland'] result: 
+10800 3391 0 Natural Brg ['Natural', 'Brg'] result: 
+10900 3414 0 Conklin ['Conklin'] result: 
+11000 3437 0 Lapeer ['Lapeer'] result: Lapeer
+11100 3460 0 South Vestal ['South', 'Vestal'] result: 
+11200 3486 0 Farmersvl Sta ['Farmersvl', 'Sta'] result: 
+11300 3521 0 Tn Of Tona ['Tn', 'Of', 'Tona'] result: 
+11400 3558 0 Macedon ['Macedon'] result: 
+11500 3591 0 Roch Gas & Elec Corp ['Roch', 'Gas', '&', 'Elec', 'Corp'] result: 
+11600 3615 0 Wallace ['Wallace'] result: 
+11700 3638 0 W Bridgewater ['W', 'Bridgewater'] result: 
+11800 3663 0 Bulk Mail Ctr ['Bulk', 'Mail', 'Ctr'] result: 
+11900 3696 0 Kilbuck ['Kilbuck'] result: 
+12000 3714 0 W Alexander ['W', 'Alexander'] result: 
+12100 3729 0 Somerset ['Somerset'] result: Somerset
+12200 3745 0 Loyalhanna ['Loyalhanna'] result: 
+12300 3764 0 Rochester Mls ['Rochester', 'Mls'] result: Rochester
+12400 3782 0 Butler ['Butler'] result: 
+12500 3818 0 Kittanning ['Kittanning'] result: Kittanning
+12600 3836 0 New Process Co ['New', 'Process', 'Co'] result: 
+12700 3865 0 Flinton ['Flinton'] result: 
+12800 3876 0 Allport ['Allport'] result: 
+12900 3891 0 Elkland ['Elkland'] result: 
+13000 3906 0 Elmer ['Elmer'] result: 
+13100 3931 0 Fisherville ['Fisherville'] result: 
+13200 3949 0 Goodhope ['Goodhope'] result: 
+13300 3969 0 Reistville ['Reistville'] result: 
+13400 3982 0 Paxtang ['Paxtang'] result: 
+13500 3996 0 Webster Mills ['Webster', 'Mills'] result: 
+13600 4012 0 Zullinger ['Zullinger'] result: 
+13700 4034 0 Lewisberry ['Lewisberry'] result: 
+13800 4062 0 Ninepoints ['Ninepoints'] result: 
+13900 4084 0 Leaman Place ['Leaman', 'Place'] result: 
+14000 4101 0 Duboistown ['Duboistown'] result: 
+14100 4116 0 Opp ['Opp'] result: 
+14200 4130 0 Raven Creek ['Raven', 'Creek'] result: 
+14300 4148 0 Coon Hunter ['Coon', 'Hunter'] result: 
+14400 4170 0 Shamokin Dam ['Shamokin', 'Dam'] result: Shamokin Dam
+14500 4192 0 New Boston ['New', 'Boston'] result: New Boston
+14600 4209 0 Bangor ['Bangor'] result: Bangor
+14700 4243 0 Andreas ['Andreas'] result: 
+14800 4271 0 Skytop ['Skytop'] result: Skytop
+14900 4299 0 Clifford Twp ['Clifford', 'Twp'] result: 
+15000 4322 0 Yatesville ['Yatesville'] result: 
+15100 4350 0 Rushville ['Rushville'] result: Rushville
+15200 4393 0 Uppr Blck Edy ['Uppr', 'Blck', 'Edy'] result: 
+15300 4419 0 Essington ['Essington'] result: Essington
+15400 4454 0 Morton ['Morton'] result: 
+15500 4482 0 Tredyffrin ['Tredyffrin'] result: 
+15600 4527 0 Cedars ['Cedars'] result: 
+15700 4552 0 Lincoln Heights ['Lincoln', 'Heights'] result: 
+15800 4575 0 Alleghenyville ['Alleghenyville'] result: 
+15900 4600 0 Odessa ['Odessa'] result: Odessa
+16000 4632 0 Ft L J Mcnair ['Ft', 'L', 'J', 'Mcnair'] result: 
+16100 4664 0 Lovettsville ['Lovettsville'] result: 
+16200 4672 0 Marine Barrks ['Marine', 'Barrks'] result: 
+16300 4673 0 Us Copyright Office ['Us', 'Copyright', 'Office'] result: 
+16400 4693 0 Newburg ['Newburg'] result: 
+16500 4729 0 Morningside ['Morningside'] result: 
+16600 4758 0 Rockville ['Rockville'] result: Rockville
+16700 4794 0 Fork ['Fork'] result: 
+16800 4828 0 Ruxton ['Ruxton'] result: 
+16900 4854 0 Bancroft Hall ['Bancroft', 'Hall'] result: 
+17000 4880 0 Sherwood ['Sherwood'] result: 
+17100 4911 0 Williamsport ['Williamsport'] result: Williamsport
+17200 4945 0 Fairfax Sta ['Fairfax', 'Sta'] result: 
+17300 4970 0 Community ['Community'] result: 
+17400 4989 0 Mount Holly ['Mount', 'Holly'] result: Mount Holly
+17500 5012 0 Elkwood ['Elkwood'] result: 
+17600 5036 0 Embarq ['Embarq'] result: 
+17700 5057 0 Bruington ['Bruington'] result: 
+17800 5074 0 Ordinary ['Ordinary'] result: 
+17900 5098 0 Richmond ['Richmond'] result: Richmond
+18000 5119 0 Nav Amph Base ['Nav', 'Amph', 'Base'] result: 
+18100 5132 0 Lawrenceville ['Lawrenceville'] result: Lawrenceville
+18200 5148 0 Sanville ['Sanville'] result: 
+18300 5167 0 Stanleytown ['Stanleytown'] result: 
+18400 5184 0 Cripple Creek ['Cripple', 'Creek'] result: 
+18500 5206 0 Monterey ['Monterey'] result: 
+18600 5231 0 Virgilina ['Virgilina'] result: 
+18700 5243 0 Bartley ['Bartley'] result: 
+18800 5255 0 Anthony ['Anthony'] result: 
+18900 5270 0 East Bank ['East', 'Bank'] result: East Bank
+19000 5280 0 Sylvester ['Sylvester'] result: 
+19100 5294 0 Cherry Run ['Cherry', 'Run'] result: 
+19200 5308 0 Landville ['Landville'] result: 
+19300 5318 0 Lawton ['Lawton'] result: 
+19400 5326 0 Chester ['Chester'] result: 
+19500 5360 0 Boggs ['Boggs'] result: 
+19600 5381 0 Glenville ['Glenville'] result: Glenville
+19700 5398 0 Cascade ['Cascade'] result: 
+19800 5416 0 Elk Garden ['Elk', 'Garden'] result: 
+19900 5434 0 Buck Shoals ['Buck', 'Shoals'] result: 
+20000 5446 0 Burl ['Burl'] result: 
+20100 5464 0 Mebane ['Mebane'] result: 
+20200 5485 0 Greensboro-High Point-Winsto ['Greensboro-High', 'Point-Winsto'] result: 
+20300 5513 0 Cameron Village ['Cameron', 'Village'] result: 
+20400 5535 0 Pantego ['Pantego'] result: Pantego
+20500 5563 0 Nags Head ['Nags', 'Head'] result: 
+20600 5582 0 Indian Trl ['Indian', 'Trl'] result: 
+20700 5603 0 Vale ['Vale'] result: 
+20800 5629 0 Raynham ['Raynham'] result: Raynham
+20900 5649 0 Sunny Point Mil Ocean ['Sunny', 'Point', 'Mil', 'Ocean'] result: 
+21000 5683 0 Pink Hill ['Pink', 'Hill'] result: 
+21100 5703 0 Hendrix ['Hendrix'] result: 
+21200 5718 0 Three Mile ['Three', 'Mile'] result: 
+21300 5731 0 Valdese ['Valdese'] result: 
+21400 5751 0 Double Island ['Double', 'Island'] result: 
+21500 5779 0 Cornwell ['Cornwell'] result: 
+21600 5797 0 Mcbee ['Mcbee'] result: 
+21700 5814 0 Bethcar ['Bethcar'] result: 
+21800 5843 0 Fingerville ['Fingerville'] result: 
+21900 5869 0 Shulerville ['Shulerville'] result: 
+22000 5898 0 Nichols ['Nichols'] result: 
+22100 5922 0 Blacksburg ['Blacksburg'] result: Blacksburg
+22200 5944 0 Williston ['Williston'] result: Williston
+22300 5965 0 Social Circle ['Social', 'Circle'] result: 
+22400 6010 0 Nelson ['Nelson'] result: 
+22500 6045 0 Atl ['Atl'] result: 
+22600 6064 0 Emmalane ['Emmalane'] result: 
+22700 6098 0 Tallulah Falls ['Tallulah', 'Falls'] result: 
+22800 6124 0 Tunnel Hill ['Tunnel', 'Hill'] result: 
+22900 6144 0 Gray ['Gray'] result: 
+23000 6168 0 Darien ['Darien'] result: 
+23100 6190 0 Mckinnon ['Mckinnon'] result: 
+23200 6213 0 Hartville ['Hartville'] result: Hartville
+23300 6236 0 Amelia Island ['Amelia', 'Island'] result: 
+23400 6263 0 Pierson ['Pierson'] result: 
+23500 6301 0 Mount Pleasant ['Mount', 'Pleasant'] result: 
+23600 6341 0 Baker ['Baker'] result: 
+23700 6371 0 Cassadaga ['Cassadaga'] result: Cassadaga
+23800 6406 0 Patrick AFB ['Patrick', 'AFB'] result: 
+23900 6440 0 E Rockland Ky ['E', 'Rockland', 'Ky'] result: 
+24000 6469 0 Sweetwater ['Sweetwater'] result: Sweetwater
+24100 6502 0 Sw Ranches ['Sw', 'Ranches'] result: 
+24200 6559 0 Wellington ['Wellington'] result: Wellington
+24300 6591 0 St Pete Beach ['St', 'Pete', 'Beach'] result: 
+24400 6636 0 Ft Myers ['Ft', 'Myers'] result: 
+24500 6661 0 Bradenton Bch ['Bradenton', 'Bch'] result: 
+24600 6697 0 Bayonet Point ['Bayonet', 'Point'] result: 
+24700 6735 0 Hopewell ['Hopewell'] result: 
+24800 6762 0 Rockford ['Rockford'] result: Rockford
+24900 6786 0 Compass Bank ['Compass', 'Bank'] result: 
+25000 6807 0 Fernbank ['Fernbank'] result: 
+25100 6833 0 Redstone Arsenal ['Redstone', 'Arsenal'] result: 
+25200 6859 0 Hardaway ['Hardaway'] result: 
+25300 6875 0 Chulafinnee ['Chulafinnee'] result: 
+25400 6896 0 Evergreen ['Evergreen'] result: 
+25500 6915 0 Deer Park ['Deer', 'Park'] result: 
+25600 6937 0 Millers Ferry ['Millers', 'Ferry'] result: 
+25700 6956 0 Butler ['Butler'] result: 
+25800 6986 0 Hurricane Mills ['Hurricane', 'Mills'] result: 
+25900 7008 0 Vanderbilt University ['Vanderbilt', 'University'] result: 
+26000 7033 0 University Of The South ['University', 'Of', 'The', 'South'] result: 
+26100 7051 0 Gatlinburg ['Gatlinburg'] result: Gatlinburg
+26200 7078 0 Washburn ['Washburn'] result: 
+26300 7103 0 Whiteville ['Whiteville'] result: Whiteville
+26400 7121 0 Three Way ['Three', 'Way'] result: 
+26500 7150 0 Byrdstown ['Byrdstown'] result: 
+26600 7164 0 Pinegrove ['Pinegrove'] result: 
+26700 7189 0 Tunica ['Tunica'] result: Tunica
+26800 7210 0 Isola ['Isola'] result: 
+26900 7227 0 Golden ['Golden'] result: 
+27000 7240 0 Jefferson ['Jefferson'] result: 
+27100 7262 0 Belzoni ['Belzoni'] result: Belzoni
+27200 7279 0 Mileston ['Mileston'] result: 
+27300 7297 0 Scooba ['Scooba'] result: Scooba
+27400 7321 0 Lucedale ['Lucedale'] result: Lucedale
+27500 7341 0 Naval Ocean O Graphic ['Naval', 'Ocean', 'O', 'Graphic'] result: Naval Ocean
+27600 7360 0 Friendship ['Friendship'] result: 
+27700 7373 0 Pinckneyville ['Pinckneyville'] result: Pinckneyville
+27800 7388 0 Mississippi State ['Mississippi', 'State'] result: Mississippi
+27900 7414 0 Nazareth ['Nazareth'] result: Nazareth
+28000 7433 0 Strathmoor Manor ['Strathmoor', 'Manor'] result: 
+28100 7455 0 Middletown ['Middletown'] result: Middletown
+28200 7478 0 Pomeroyton ['Pomeroyton'] result: 
+28300 7497 0 Ages ['Ages'] result: 
+28400 7501 0 Fogertown ['Fogertown'] result: 
+28500 7523 0 Bromley ['Bromley'] result: 
+28600 7548 0 White Tower ['White', 'Tower'] result: White Tower
+28700 7578 0 Cordell ['Cordell'] result: 
+28800 7586 0 Leander ['Leander'] result: 
+28900 7597 0 Lost Creek ['Lost', 'Creek'] result: 
+29000 7604 0 Draffin ['Draffin'] result: 
+29100 7610 0 Craynor ['Craynor'] result: 
+29200 7613 0 Fusonia ['Fusonia'] result: 
+29300 7626 0 Columbus ['Columbus'] result: 
+29400 7644 0 Cave Ridge ['Cave', 'Ridge'] result: 
+29500 7668 0 St Elmo ['St', 'Elmo'] result: 
+29600 7695 0 Earlington ['Earlington'] result: 
+29700 7709 0 Rockybranch ['Rockybranch'] result: 
+29800 7733 0 Delaware ['Delaware'] result: Delaware
+29900 7767 0 Galloway ['Galloway'] result: 
+30000 7797 0 Lakeview ['Lakeview'] result: Lakeview
+30100 7817 0 Defiance ['Defiance'] result: 
+30200 7845 0 Chesterhill ['Chesterhill'] result: 
+30300 7879 0 Brilliant ['Brilliant'] result: 
+30400 7914 0 Russell Township ['Russell', 'Township'] result: 
+30500 7953 0 Rock Creek ['Rock', 'Creek'] result: 
+30600 7988 0 Valley View ['Valley', 'View'] result: 
+30700 8025 0 Litchfield ['Litchfield'] result: 
+30800 8061 0 Leavittsburg ['Leavittsburg'] result: 
+30900 8096 0 Killbuck ['Killbuck'] result: 
+31000 8127 0 Lake Slagle ['Lake', 'Slagle'] result: 
+31100 8161 0 Oceola ['Oceola'] result: 
+31200 8187 0 Liberty Twp ['Liberty', 'Twp'] result: 
+31300 8225 0 Steelville ['Steelville'] result: 
+31400 8254 0 Camp Washington ['Camp', 'Washington'] result: Camp Washington
+31500 8284 0 Covington ['Covington'] result: 
+31600 8331 0 Moraine ['Moraine'] result: Moraine
+31700 8362 0 Portsmouth ['Portsmouth'] result: Portsmouth
+31800 8383 0 Wingett Run ['Wingett', 'Run'] result: 
+31900 8403 0 Saint Marys ['Saint', 'Marys'] result: 
+32000 8435 0 Belleville ['Belleville'] result: Belleville
+32100 8466 0 Bus Reply ['Bus', 'Reply'] result: 
+32200 8487 0 Trail Creek ['Trail', 'Creek'] result: 
+32300 8515 0 South Bend ['South', 'Bend'] result: 
+32400 8533 0 Grabill ['Grabill'] result: 
+32500 8558 0 Saint Joe ['Saint', 'Joe'] result: 
+32600 8583 0 New Waverly ['New', 'Waverly'] result: 
+32700 8611 0 Crandall ['Crandall'] result: 
+32800 8645 0 Hanover ['Hanover'] result: Hanover
+32900 8675 0 Bethel ['Bethel'] result: Bethel
+33000 8699 0 Shirley ['Shirley'] result: 
+33100 8718 0 Lyons ['Lyons'] result: 
+33200 8746 0 Bruceville ['Bruceville'] result: 
+33300 8764 0 Tobin ['Tobin'] result: 
+33400 8784 0 Haubstadt ['Haubstadt'] result: 
+33500 8806 0 Pleasantville ['Pleasantville'] result: 
+33600 8823 0 Turman ['Turman'] result: 
+33700 8841 0 Pence ['Pence'] result: 
+33800 8883 0 Fort Gratiot Township ['Fort', 'Gratiot', 'Township'] result: Fort Gratiot Township
+33900 8912 0 Flat Rock ['Flat', 'Rock'] result: 
+34000 8953 0 Superior Twp ['Superior', 'Twp'] result: 
+34100 8995 0 Lakeville ['Lakeville'] result: Lakeville
+34200 9020 0 Buick City ['Buick', 'City'] result: Buick City
+34300 9046 0 Omer ['Omer'] result: 
+34400 9068 0 Stanton ['Stanton'] result: 
+34500 9089 0 Tekonsha ['Tekonsha'] result: 
+34600 9115 0 Stockbridge ['Stockbridge'] result: Stockbridge
+34700 9136 0 Muskegon ['Muskegon'] result: Muskegon
+34800 9158 0 Leroy ['Leroy'] result: 
+34900 9187 0 Paradise ['Paradise'] result: 
+35000 9201 0 Negaunee ['Negaunee'] result: 
+35100 9214 0 Alleman ['Alleman'] result: 
+35200 9239 0 Grand Jct ['Grand', 'Jct'] result: 
+35300 9258 0 New Providnce ['New', 'Providnce'] result: 
+35400 9281 0 Saylorville ['Saylorville'] result: 
+35500 9300 0 Rockford ['Rockford'] result: Rockford
+35600 9315 0 Ottosen ['Ottosen'] result: 
+35700 9335 0 Janesville ['Janesville'] result: Janesville
+35800 9357 0 Sharpsburg ['Sharpsburg'] result: Sharpsburg
+35900 9373 0 Granite ['Granite'] result: 
+36000 9398 0 Council Blfs ['Council', 'Blfs'] result: 
+36100 9418 0 Colesburg ['Colesburg'] result: 
+36200 9444 0 Little Turkey ['Little', 'Turkey'] result: Turkey
+36300 9467 0 Clear Creek ['Clear', 'Creek'] result: 
+36400 9489 0 Rockwell Collins ['Rockwell', 'Collins'] result: 
+36500 9517 0 Burlington ['Burlington'] result: Burlington
+36600 9541 0 Durant ['Durant'] result: 
+36700 9570 0 Newburg ['Newburg'] result: 
+36800 9605 0 Union Grove ['Union', 'Grove'] result: 
+36900 9636 0 Merrimac ['Merrimac'] result: 
+37000 9661 0 Dalton ['Dalton'] result: 
+37100 9675 0 Clifton ['Clifton'] result: 
+37200 9693 0 Krakow ['Krakow'] result: Krakow
+37300 9718 0 Dorchester ['Dorchester'] result: Dorchester
+37400 9727 0 Kelly ['Kelly'] result: 
+37500 9743 0 Hurley ['Hurley'] result: 
+37600 9759 0 Ettrick ['Ettrick'] result: 
+37700 9786 0 Independence ['Independence'] result: 
+37800 9805 0 La Pointe ['La', 'Pointe'] result: 
+37900 9825 0 Van Dyne ['Van', 'Dyne'] result: 
+38000 9854 0 Warman ['Warman'] result: 
+38100 9875 0 Dellwood ['Dellwood'] result: 
+38200 9902 0 Tonka Bay ['Tonka', 'Bay'] result: 
+38300 9928 0 Orono ['Orono'] result: Orono
+38400 9953 0 Boray ['Boray'] result: 
+38500 9970 0 Minnewana ['Minnewana'] result: 
+38600 9988 0 Byron ['Byron'] result: 
+38700 10013 0 Wilson ['Wilson'] result: 
+38800 10040 0 Twin Lakes ['Twin', 'Lakes'] result: 
+38900 10054 0 Svea ['Svea'] result: 
+39000 10078 0 Dalton ['Dalton'] result: 
+39100 10093 0 Crosby ['Crosby'] result: 
+39200 10111 0 Everdell ['Everdell'] result: 
+39300 10121 0 Zerkel ['Zerkel'] result: 
+39400 10129 0 Wildwood ['Wildwood'] result: Wildwood
+39500 10142 0 Red Lake Falls ['Red', 'Lake', 'Falls'] result: Red Lake Falls
+39600 10164 0 Dakota Dunes ['Dakota', 'Dunes'] result: Dakota Dunes
+39700 10187 0 Florence ['Florence'] result: Florence
+39800 10211 0 Gann Valley ['Gann', 'Valley'] result: Gann Valley
+39900 10228 0 Greenway ['Greenway'] result: 
+40000 10242 0 Holabird ['Holabird'] result: 
+40100 10255 0 Cooper ['Cooper'] result: 
+40200 10269 0 Heppner ['Heppner'] result: 
+40300 10281 0 Warren ['Warren'] result: 
+40400 10301 0 Edinburg ['Edinburg'] result: Edinburg
+40500 10320 0 Knox ['Knox'] result: 
+40600 10336 0 Sibley ['Sibley'] result: 
+40700 10347 0 Heil ['Heil'] result: 
+40800 10360 0 Mott ['Mott'] result: 
+40900 10374 0 Battleview ['Battleview'] result: 
+41000 10384 0 Garryowen ['Garryowen'] result: 
+41100 10395 0 Hinsdale ['Hinsdale'] result: Hinsdale
+41200 10401 0 Fort Shaw ['Fort', 'Shaw'] result: 
+41300 10415 0 Opportunity ['Opportunity'] result: 
+41400 10433 0 Seeley Lake ['Seeley', 'Lake'] result: 
+41500 10460 0 Gages Lake ['Gages', 'Lake'] result: 
+41600 10491 0 Lk Barrington ['Lk', 'Barrington'] result: 
+41700 10525 0 Lk In The Hills ['Lk', 'In', 'The', 'Hills'] result: The Hills
+41800 10555 0 Harvey ['Harvey'] result: 
+41900 10593 0 Aurora ['Aurora'] result: Aurora
+42000 10620 0 Lincoln Park ['Lincoln', 'Park'] result: 
+42100 10643 0 Gibson City ['Gibson', 'City'] result: 
+42200 10662 0 Nora ['Nora'] result: 
+42300 10692 0 Garden Plain ['Garden', 'Plain'] result: 
+42400 10712 0 Long Point ['Long', 'Point'] result: 
+42500 10742 0 Camp Grove ['Camp', 'Grove'] result: Camp Grove
+42600 10768 0 Brimfield ['Brimfield'] result: Brimfield
+42700 10798 0 Tremont ['Tremont'] result: 
+42800 10826 0 Downs ['Downs'] result: 
+42900 10847 0 Georgetown ['Georgetown'] result: 
+43000 10870 0 Dunlap Lake ['Dunlap', 'Lake'] result: 
+43100 10889 0 Staunton ['Staunton'] result: 
+43200 10925 0 Maeystown ['Maeystown'] result: 
+43300 10945 0 Bentley ['Bentley'] result: 
+43400 10971 0 Casey ['Casey'] result: 
+43500 10984 0 Cottonwood ['Cottonwood'] result: 
+43600 11012 0 Sharpsburg ['Sharpsburg'] result: Sharpsburg
+43700 11039 0 Palmyra ['Palmyra'] result: Palmyra
+43800 11051 0 Browns ['Browns'] result: 
+43900 11070 0 Mount Vernon Outland Airport ['Mount', 'Vernon', 'Outland', 'Airport'] result: Mount Vernon Outland Airport
+44000 11091 0 Crab Orchard Estates ['Crab', 'Orchard', 'Estates'] result: 
+44100 11111 0 Hurst ['Hurst'] result: 
+44200 11137 0 Berger ['Berger'] result: 
+44300 11157 0 Spring Bluff ['Spring', 'Bluff'] result: 
+44400 11191 0 Ibssc Acs Asc ['Ibssc', 'Acs', 'Asc'] result: 
+44500 11214 0 New Truxton ['New', 'Truxton'] result: 
+44600 11251 0 Atlanta ['Atlanta'] result: Atlanta
+44700 11273 0 Cascade ['Cascade'] result: 
+44800 11289 0 Brewer ['Brewer'] result: 
+44900 11305 0 Gatewood ['Gatewood'] result: 
+45000 11328 0 Peculiar ['Peculiar'] result: 
+45100 11357 0 Edgerton ['Edgerton'] result: 
+45200 11387 0 Mercer ['Mercer'] result: 
+45300 11415 0 Anderson ['Anderson'] result: 
+45400 11438 0 Case ['Case'] result: 
+45500 11456 0 Pierpont ['Pierpont'] result: 
+45600 11481 0 Florida ['Florida'] result: Florida
+45700 11499 0 Eminence ['Eminence'] result: 
+45800 11517 0 Bruner ['Bruner'] result: 
+45900 11539 0 Protem ['Protem'] result: 
+46000 11563 0 Clearview City ['Clearview', 'City'] result: Clearview City
+46100 11596 0 Westwood Hills ['Westwood', 'Hills'] result: Westwood Hills
+46200 11632 0 Paxico ['Paxico'] result: Paxico
+46300 11653 0 Edison ['Edison'] result: 
+46400 11676 0 Olpe ['Olpe'] result: 
+46500 11701 0 Duquoin ['Duquoin'] result: Duquoin
+46600 11725 0 Elk Falls ['Elk', 'Falls'] result: 
+46700 11751 0 Alexander ['Alexander'] result: 
+46800 11758 0 Paradise ['Paradise'] result: 
+46900 11775 0 Friend ['Friend'] result: 
+47000 11802 0 Union Pacific Rr ['Union', 'Pacific', 'Rr'] result: 
+47100 11818 0 Johnson ['Johnson'] result: 
+47200 11837 0 Bellwood ['Bellwood'] result: 
+47300 11845 0 Willowdale ['Willowdale'] result: Willowdale
+47400 11865 0 Univ Of Ne Kearney ['Univ', 'Of', 'Ne', 'Kearney'] result: 
+47500 11887 0 Bloomington ['Bloomington'] result: Bloomington
+47600 11902 0 Mccook ['Mccook'] result: 
+47700 11918 0 Crookston ['Crookston'] result: Crookston
+47800 11943 0 Paradis ['Paradis'] result: 
+47900 11967 0 Bayou Blue ['Bayou', 'Blue'] result: 
+48000 12000 0 Carencro ['Carencro'] result: Carencro
+48100 12016 0 Denham Springs ['Denham', 'Springs'] result: Denham Springs
+48200 12031 0 Belcher ['Belcher'] result: 
+48300 12049 0 Saline ['Saline'] result: 
+48400 12062 0 Ft Necessity ['Ft', 'Necessity'] result: 
+48500 12088 0 Moreland ['Moreland'] result: 
+48600 12105 0 Mansura ['Mansura'] result: Mansura
+48700 12120 0 Wisner ['Wisner'] result: 
+48800 12138 0 East Winnfield ['East', 'Winnfield'] result: East Winnfield
+48900 12148 0 Vowells Mill ['Vowells', 'Mill'] result: 
+49000 12167 0 Mcarthur ['Mcarthur'] result: 
+49100 12187 0 Smackover ['Smackover'] result: 
+49200 12209 0 Bonnerdale ['Bonnerdale'] result: 
+49300 12217 0 Center Ridge ['Center', 'Ridge'] result: 
+49400 12231 0 Stony Point ['Stony', 'Point'] result: 
+49500 12254 0 Algoa ['Algoa'] result: 
+49600 12264 0 Bird Town ['Bird', 'Town'] result: 
+49700 12274 0 Palestine ['Palestine'] result: 
+49800 12287 0 Charlotte ['Charlotte'] result: 
+49900 12301 0 East Cotter ['East', 'Cotter'] result: 
+50000 12330 0 Prairie Grove ['Prairie', 'Grove'] result: 
+50100 12358 0 Washita ['Washita'] result: 
+50200 12380 0 Moore ['Moore'] result: 
+50300 12392 0 Sterling ['Sterling'] result: 
+50400 12410 0 Waukomis ['Waukomis'] result: 
+50500 12422 0 Onola ['Onola'] result: 
+50600 12441 0 Grove ['Grove'] result: 
+50700 12460 0 Webbers Falls ['Webbers', 'Falls'] result: 
+50800 12475 0 Eagletown ['Eagletown'] result: 
+50900 12495 0 Cameron ['Cameron'] result: 
+51000 12521 0 Copeville ['Copeville'] result: 
+51100 12542 0 Blue Ridge ['Blue', 'Ridge'] result: 
+51200 12566 0 New Colony ['New', 'Colony'] result: 
+51300 12591 0 Gray ['Gray'] result: 
+51400 12608 0 Old Larissa ['Old', 'Larissa'] result: 
+51500 12633 0 Denson Spring ['Denson', 'Spring'] result: 
+51600 12643 0 Corrigan ['Corrigan'] result: 
+51700 12662 0 Mattox ['Mattox'] result: 
+51800 12698 0 Forest Hill ['Forest', 'Hill'] result: 
+51900 12733 0 Archer City ['Archer', 'City'] result: 
+52000 12748 0 Val Verde ['Val', 'Verde'] result: 
+52100 12758 0 Baileyville ['Baileyville'] result: 
+52200 12775 0 Leroy ['Leroy'] result: 
+52300 12791 0 Calf Creek ['Calf', 'Creek'] result: 
+52400 12811 0 Cloverleaf ['Cloverleaf'] result: 
+52500 12833 0 Onalaska ['Onalaska'] result: Onalaska
+52600 12851 0 Hockley Mine ['Hockley', 'Mine'] result: 
+52700 12872 0 Mont Belvieu ['Mont', 'Belvieu'] result: 
+52800 12903 0 Orange ['Orange'] result: 
+52900 12923 0 Cologne ['Cologne'] result: Cologne
+53000 12946 0 Devine ['Devine'] result: 
+53100 12968 0 Universal City ['Universal', 'City'] result: 
+53200 12992 0 Seven Sisters ['Seven', 'Sisters'] result: 
+53300 13021 0 Monte Alto ['Monte', 'Alto'] result: Monte Alto
+53400 13045 0 Rangerville ['Rangerville'] result: 
+53500 13068 0 Hamon ['Hamon'] result: 
+53600 13089 0 Moores Crossing ['Moores', 'Crossing'] result: 
+53700 13107 0 Holman ['Holman'] result: 
+53800 13119 0 Morse ['Morse'] result: 
+53900 13146 0 Lorenzo ['Lorenzo'] result: 
+54000 13158 0 Tuxedo ['Tuxedo'] result: 
+54100 13175 0 Sierra Blanca ['Sierra', 'Blanca'] result: Sierra Blanca
+54200 13202 0 Palmer Lake ['Palmer', 'Lake'] result: 
+54300 13234 0 Silvercreek ['Silvercreek'] result: 
+54400 13258 0 Gilcrest ['Gilcrest'] result: 
+54500 13274 0 Tarryall ['Tarryall'] result: 
+54600 13290 0 Chivington ['Chivington'] result: 
+54700 13306 0 Monument Park ['Monument', 'Park'] result: 
+54800 13331 0 Mesita ['Mesita'] result: 
+54900 13350 0 Slick Rock ['Slick', 'Rock'] result: 
+55000 13378 0 Cordillera ['Cordillera'] result: Cordillera
+55100 13398 0 Sunrise ['Sunrise'] result: 
+55200 13412 0 St Stephens ['St', 'Stephens'] result: 
+55300 13424 0 Point Of Rocks ['Point', 'Of', 'Rocks'] result: 
+55400 13441 0 Downey ['Downey'] result: 
+55500 13464 0 Carey ['Carey'] result: 
+55600 13480 0 Clementsville ['Clementsville'] result: 
+55700 13495 0 Grasmere ['Grasmere'] result: 
+55800 13511 0 Star ['Star'] result: 
+55900 13525 0 Twin Lakes ['Twin', 'Lakes'] result: 
+56000 13547 0 Marion ['Marion'] result: 
+56100 13570 0 Tooele ['Tooele'] result: 
+56200 13594 0 Utida ['Utida'] result: 
+56300 13615 0 Spring Glen ['Spring', 'Glen'] result: 
+56400 13640 0 Spanish Fork ['Spanish', 'Fork'] result: 
+56500 13670 0 Santa Clara ['Santa', 'Clara'] result: Santa Clara
+56600 13702 0 Asu ['Asu'] result: 
+56700 13734 0 Sunset Acres ['Sunset', 'Acres'] result: 
+56800 13765 0 Dm AFB ['Dm', 'AFB'] result: 
+56900 13791 0 Keams Canyon ['Keams', 'Canyon'] result: 
+57000 13822 0 Peach Springs ['Peach', 'Springs'] result: Peach Springs
+57100 13846 0 Sandia Pueblo ['Sandia', 'Pueblo'] result: 
+57200 13865 0 Clines Cors ['Clines', 'Cors'] result: 
+57300 13887 0 Kirtland ['Kirtland'] result: Kirtland
+57400 13913 0 Scientific Lab ['Scientific', 'Lab'] result: 
+57500 13925 0 Dahlia ['Dahlia'] result: 
+57600 13942 0 White Sands ['White', 'Sands'] result: White Sands
+57700 13960 0 Portales ['Portales'] result: 
+57800 13982 0 San Patricio ['San', 'Patricio'] result: San Patricio
+57900 14002 0 No Las Vegas ['No', 'Las', 'Vegas'] result: Las Vegas
+58000 14030 0 Dixie Valley ['Dixie', 'Valley'] result: Dixie Valley
+58100 14051 0 Grass Valley ['Grass', 'Valley'] result: Grass Valley
+58200 14078 0 Montello ['Montello'] result: 
+58300 14107 0 W Hollywood ['W', 'Hollywood'] result: Hollywood
+58400 14134 0 La Habra Hgts ['La', 'Habra', 'Hgts'] result: 
+58500 14174 0 J P Morgan ['J', 'P', 'Morgan'] result: 
+58600 14229 0 Valencia ['Valencia'] result: Valencia
+58700 14258 0 Eastvale ['Eastvale'] result: 
+58800 14293 0 Solana Beach ['Solana', 'Beach'] result: 
+58900 14329 0 Salton City ['Salton', 'City'] result: Salton City
+59000 14354 0 Patton ['Patton'] result: 
+59100 14392 0 Dana Point ['Dana', 'Point'] result: 
+59200 14432 0 Santa Rosa Va ['Santa', 'Rosa', 'Va'] result: Santa Rosa Va
+59300 14472 0 New Cuyama ['New', 'Cuyama'] result: 
+59400 14506 0 Mojave ['Mojave'] result: 
+59500 14535 0 Tropico Village ['Tropico', 'Village'] result: 
+59600 14564 0 South Dos Palos ['South', 'Dos', 'Palos'] result: 
+59700 14598 0 Pescadero ['Pescadero'] result: Pescadero
+59800 14639 0 Dublin ['Dublin'] result: Dublin
+59900 14685 0 Petaluma ['Petaluma'] result: Petaluma
+60000 14718 0 Camp Connell ['Camp', 'Connell'] result: 
+60100 14742 0 Sonora ['Sonora'] result: Sonora
+60200 14776 0 Occidental ['Occidental'] result: 
+60300 14807 0 Bowman ['Bowman'] result: 
+60400 14829 0 Pine Grove ['Pine', 'Grove'] result: 
+60500 14849 0 Cisco ['Cisco'] result: 
+60600 14878 0 Magalia ['Magalia'] result: Magalia
+60700 14907 0 Big Bar ['Big', 'Bar'] result: 
+60800 14925 0 Alturas ['Alturas'] result: 
+60900 14953 0 Hobart Mills ['Hobart', 'Mills'] result: 
+61000 14981 0 Waianae ['Waianae'] result: 
+61100 15013 0 Beavercreek ['Beavercreek'] result: Beavercreek
+61200 15039 0 Wilsonville ['Wilsonville'] result: Wilsonville
+61300 15065 0 Keizer ['Keizer'] result: 
+61400 15092 0 Eastside ['Eastside'] result: 
+61500 15116 0 Hugo ['Hugo'] result: 
+61600 15136 0 Keating ['Keating'] result: 
+61700 15156 0 Federal Way ['Federal', 'Way'] result: 
+61800 15183 0 Mill Creek ['Mill', 'Creek'] result: 
+61900 15224 0 Clinton ['Clinton'] result: 
+62000 15250 0 Chico ['Chico'] result: 
+62100 15267 0 Morton ['Morton'] result: 
+62200 15290 0 Seabeck ['Seabeck'] result: 
+62300 15314 0 Offutt Lake ['Offutt', 'Lake'] result: 
+62400 15337 0 Cedarville ['Cedarville'] result: Cedarville
+62500 15357 0 Skamania ['Skamania'] result: Skamania
+62600 15381 0 Bodie ['Bodie'] result: 
+62700 15400 0 Spokane Vly ['Spokane', 'Vly'] result: 
+62800 15416 0 Spokane ['Spokane'] result: Spokane
+62900 15439 0 Chignik Lagoon ['Chignik', 'Lagoon'] result: 
+63000 15450 0 Pilot Point ['Pilot', 'Point'] result: 
+63100 15472 0 Delta Jct ['Delta', 'Jct'] result: 
+63200 15500 0 Coffman Cove ['Coffman', 'Cove'] result: 
+stanford knows 15503 out of 63211
+0
