@@ -9,7 +9,7 @@ import datetime
 
 path_to_data = './data/'
 cities = pd.read_csv(path_to_data + 'us_cities_states_counties.csv')  
-cities['City alias'] = cities['City alias'].apply(lambda x: str(x))
+cities['City'] = cities['City'].apply(lambda x: str(x))
 ner_tagger = CoreNLPParser(url='http://localhost:9000', tagtype='ner') 
 parser = CoreNLPParser(url='http://localhost:9000')
 def formatted_entities(classified_paragraphs_list):
@@ -30,7 +30,7 @@ print (str(currentDT))
 
 count = 0
 passed = 0
-for i, city in enumerate(cities['City alias'].values):
+for i, city in enumerate(cities['City'].unique()):
     try:         
         city_ = parser.tokenize(city)     
         classified_paragraphs_list = ner_tagger.tag_sents([city_]) 
@@ -42,7 +42,7 @@ for i, city in enumerate(cities['City alias'].values):
         print(i, city, 'error:', e)
         pass
     if i% 100 == 0: print (i, count, passed, city, city_, 'result:', ' '.join(formatted_result)) 
-print(f'Stanford knows {count} out of {cities.shape[0]}')
+print(f'Stanford knows {count} out of {cities.City.unique().shape[0]}')
 print('couldnt process:', passed)
 
 currentDT = datetime.datetime.now()

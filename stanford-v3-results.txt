@@ -1,0 +1,192 @@
+2019-04-10 11:55:29.736398
+0 0 0 Holtsville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+100 26 0 Bayamon <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Bayamon
+200 42 0 Greenfield <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+300 61 0 EMC <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+400 81 0 Dover <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+500 103 0 Waltham <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+600 146 0 Fall River <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+700 162 0 North Salem <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+800 176 0 South Acworth <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: South
+900 194 0 Biddeford Pool <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Pool
+1000 217 0 Bowdoin <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+1100 244 0 Bernard <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+1200 267 0 Owls Head <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+1300 298 0 Proctorsville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+1400 330 0 Brandon <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+1500 362 0 Suffield <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Suffield
+1600 381 0 Plantsville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+1700 397 0 South Orange <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+1800 416 0 Bradley Beach <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+1900 443 0 Whippany <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Whippany
+2000 474 0 Marmora <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+2100 505 0 Seaside Heights <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+2200 535 0 Cortlandt Manor <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+2300 562 0 Forest Hills <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+2400 586 0 Ocean Beach <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+2500 621 0 East Greenbush <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: East Greenbush
+2600 650 0 Elka Park <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+2700 679 0 Rhinebeck <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+2800 710 0 Lake Luzerne <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: LakeLuzerne
+2900 731 0 Cazenovia <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Cazenovia
+3000 746 0 Constableville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+3100 762 0 Ellisburg <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+3200 777 0 Portlandville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+3300 795 0 Wales Center <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Wales
+3400 818 0 Black Creek <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+3500 833 0 Troupsburg <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+3600 854 0 Bobtown <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+3700 866 0 Star Junction <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+3800 879 0 Stahlstown <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+3900 888 0 Cairnbrook <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+4000 909 0 Cowansville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+4100 922 0 Dysart <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+4200 931 0 New Millport <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+4300 951 0 Pillow <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+4400 964 0 York Springs <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+4500 980 0 Hummels Wharf <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+4600 1001 0 Kunkletown <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+4700 1022 0 Archbald <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+4800 1034 0 Sayre <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+4900 1061 0 Garnet Valley <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+5000 1084 0 Bechtelsville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+5100 1112 0 Aquasco <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+5200 1129 0 Garrett Park <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+5300 1144 0 Bozman <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+5400 1161 0 Quantico <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Quantico
+5500 1176 0 Front Royal <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+5600 1190 0 Bumpass <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+5700 1199 0 Horntown <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+5800 1205 0 Pamplin <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+5900 1208 0 Weber City <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+6000 1222 0 Sutherlin <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+6100 1230 0 Alderson <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+6200 1238 0 Ridgeview <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+6300 1249 0 Henlawson <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+6400 1252 0 Quinwood <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+6500 1267 0 Linn <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+6600 1281 0 Wardensville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+6700 1291 0 Coats <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+6800 1308 0 Coinjock <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+6900 1320 0 Vale <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+7000 1341 0 Cherry Point <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+7100 1352 0 Cedar Mountain <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Cedar Mountain
+7200 1368 0 Pomaria <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+7300 1379 0 Hamer <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+7400 1390 0 Garnett <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+7500 1408 0 Cobbtown <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+7600 1431 0 Lookout Mountain <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+7700 1445 0 Surrency <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+7800 1462 0 Astor <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+7900 1484 0 Valparaiso <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+8000 1498 0 West Palm Beach <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+8100 1521 0 Palmdale <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+8200 1542 0 Columbiana <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+8300 1555 0 Killen <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+8400 1566 0 Fruithurst <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+8500 1581 0 Wilmer <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+8600 1592 0 Pleasant Shade <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+8700 1604 0 Greeneville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+8800 1610 0 Morris Chapel <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+8900 1619 0 Anguilla <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Anguilla
+9000 1631 0 Madden <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+9100 1641 0 Kokomo <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+9200 1651 0 Frenchburg <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+9300 1657 0 Trosper <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+9400 1665 0 Raccoon <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+9500 1667 0 Dycusburg <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+9600 1679 0 Slaughters <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+9700 1692 0 De Graff <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+9800 1704 0 Mount Perry <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+9900 1711 0 Brady Lake <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+10000 1725 0 Melmore <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+10100 1739 0 Ironton <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+10200 1750 0 Wapakoneta <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+10300 1762 0 Grabill <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+10400 1771 0 North Vernon <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+10500 1783 0 Fairbanks <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+10600 1790 0 Hamtramck <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+10700 1804 0 Owendale <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+10800 1815 0 Morenci <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Morenci
+10900 1826 0 South Boardman <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+11000 1842 0 Negaunee <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+11100 1849 0 New Virginia <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: New
+11200 1857 0 Lu Verne <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+11300 1866 0 Rock Valley <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Rock
+11400 1881 0 Randalia <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+11500 1888 0 Welton <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+11600 1902 0 Sextonville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+11700 1912 0 Fish Creek <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+11800 1922 0 Camp Douglas <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Camp
+11900 1931 0 Fond Du Lac <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+12000 1941 0 Waconia <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+12100 1951 0 Conger <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+12200 1964 0 Wheaton <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+12300 1973 0 Tintah <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+12400 1985 0 Renner <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+12500 1993 0 Kennebec <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+12600 1998 0 West Fargo <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+12700 2007 0 Wimbledon <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+12800 2013 0 Grass Range <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+12900 2016 0 Kevin <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+13000 2022 0 Libby <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+13100 2028 0 Bridgeview <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+13200 2037 0 Scales Mound <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+13300 2047 0 Manito <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+13400 2057 0 New Douglas <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+13500 2064 0 Divernon <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+13600 2074 0 Buncombe <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+13700 2091 0 Kahoka <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+13800 2099 0 Wappapello <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+13900 2116 0 Noel <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+14000 2123 0 Bois D Arc <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+14100 2135 0 Belvue <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+14200 2151 0 Protection <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+14300 2158 0 Healy <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+14400 2163 0 Hoskins <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+14500 2171 0 Ama <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+14600 2186 0 Loreauville <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+14700 2194 0 Barksdale AFB <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+14800 2205 0 Beirne <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+14900 2215 0 N LR <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+15000 2219 0 Weiner <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+15100 2230 0 Ratcliff <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+15200 2234 0 Hopeton <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+15300 2245 0 Hitchita <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+15400 2256 0 Moffett <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+15500 2267 0 Elysian Fields <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+15600 2280 0 Archer City <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+15700 2291 0 Lowake <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+15800 2301 0 La Marque <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+15900 2318 0 Pearsall <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+16000 2336 0 Port Isabel <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+16100 2348 0 Darrouzett <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+16200 2361 0 Rotan <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Rotan
+16300 2377 0 Fort Morgan <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+16400 2390 0 Mancos <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Mancos
+16500 2407 0 Aladdin <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+16600 2414 0 Greencreek <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+16700 2423 0 Sandy <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+16800 2437 0 Sacaton <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Sacaton
+16900 2461 0 Nutrioso <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+17000 2490 0 Prewitt <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+17100 2502 0 Holman <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+17200 2509 0 Cuervo <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+17300 2521 0 Lomita <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+17400 2541 0 Rancho Santa Fe <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+17500 2564 0 El Toro <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+17600 2581 0 Paso Robles <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+17700 2598 0 San Francisco <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+17800 2620 0 Big Oak Flat <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+17900 2643 0 Orick <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result: Orick
+18000 2659 0 Stonyford <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+18100 2677 0 Hawi <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+18200 2698 0 Dufur <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+18300 2717 0 Tiller <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+18400 2724 0 Snoqualmie Pass <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+18500 2734 0 Bucoda <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+18600 2751 0 South Cle Elum <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+18700 2760 0 Clarks Point <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+18800 2773 0 Gambell <generator object GenericCoreNLPParser.tokenize at 0x7f98081ea410> result:
+Stanford knows 2789 out of 18857
+couldnt process: 0
